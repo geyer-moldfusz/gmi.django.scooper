@@ -1,0 +1,13 @@
+- model: scooper.TreasureStatus
+  pk: 1
+  fields:
+    status: private
+- model: scooper.TreasureStatus
+  pk: 2
+  fields:
+    status: public
+- model: scooper.TreasureStatus
+  pk: 3
+  fields:
+    status: global
+
